@@ -12,4 +12,5 @@ function bgAnimationItems() {
     }
   }
 }
+
 bgAnimationItems();
